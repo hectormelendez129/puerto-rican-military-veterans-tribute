@@ -1,4 +1,4 @@
-# Puerto-Rican-Military-Veterans
+# Puerto-Rican-Military-Veterans-Tribute
 A site dedicated to learning about Military Veterans from Puerto Rico
 # Puerto Rican Military Veterans Tribute
 
